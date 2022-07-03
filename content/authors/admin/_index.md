@@ -6,7 +6,7 @@ title: Pan Li
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Information System
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,8 +27,8 @@ education:
     - course: PhD in Artificial Intelligence
       institution: New York University
       year: 2023 (expected)
-    - course: BSc in Mathematics and Computer Science
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Math and Computer Science
+      institution: University of Science and Technology of China
       year: 2017
 
 # Social/Academic Networking
@@ -64,5 +64,7 @@ highlight_name: true
 ---
 
 I’m a 5th year PhD candidate in the [Department of Technology, Operations and Statistics (TOPS)](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/ioms-dept) within the [Lenoard N. Stern School of Business](https://www.stern.nyu.edu/) at the [New York University](https://www.nyu.edu/). My advisor is [Alexander Tuzhilin](https://www.stern.nyu.edu/faculty/bio/alexander-tuzhilin). My research focuses on the personalization techniques, where I aim to improve the design of recommendation models that effectively explore consumer preferences and improve consumer statisfaction.
+
+I will be on the 2022-2023 academic job market! Please let me know if you have any position available.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/PanLi_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
