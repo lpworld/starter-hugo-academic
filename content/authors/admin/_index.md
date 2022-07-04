@@ -63,8 +63,8 @@ email: ''
 highlight_name: true
 ---
 
-I’m a 5th year PhD candidate in the [Department of Technology, Operations and Statistics (TOPS)](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/ioms-dept) within the [Lenoard N. Stern School of Business](https://www.stern.nyu.edu/) at the [New York University](https://www.nyu.edu/). My advisor is [Alexander Tuzhilin](https://www.stern.nyu.edu/faculty/bio/alexander-tuzhilin). My research focuses on the personalization techniques, where I aim to improve the design of recommendation models that effectively explore consumer preferences and improve consumer statisfaction.
+Hello! I’m a 6th year PhD candidate in the [Department of Technology, Operations and Statistics (TOPS)](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/ioms-dept) within the [Lenoard N. Stern School of Business](https://www.stern.nyu.edu/) at the [New York University](https://www.nyu.edu/). My advisor is [Alexander Tuzhilin](https://www.stern.nyu.edu/faculty/bio/alexander-tuzhilin). My research focuses on the personalization techniques, where I aim to improve the design of recommendation models that effectively explore consumer preferences and improve consumer statisfaction.
 
-I will be on the 2022-2023 academic job market! Please let me know if you have any position available.
+**I will be on the 2022-2023 academic job market! Please let me know if you have any position available.**
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/PanLi_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
